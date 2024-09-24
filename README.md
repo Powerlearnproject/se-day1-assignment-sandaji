@@ -96,7 +96,7 @@ Software Engineering Day1 Assignment
        Agile involves customers throughout; Waterfall mainly at the beginning and end.
 4. Risk Management: 
 
-    Agile allows early issue detection; Waterfall may encounter higher risks due to its sequential nature.
+       Agile allows early issue detection; Waterfall may encounter higher risks due to its sequential nature.
 ### Scenarios to be used
     Waterfall suits well-defined projects, while Agile is ideal for projects needing flexibility and rapid iteration
 
